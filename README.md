@@ -8,7 +8,7 @@ To successfully create the above scenario, the below component has been built.
 •	A Transaction API(RESTful) that takes transactions and responds back immediately.
 Architecture diagram:
  
-
+https://github.com/gayaniC/jdc/blob/master/architecture.JPG
 
 
 Prerequisites
